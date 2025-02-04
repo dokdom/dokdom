@@ -1,5 +1,5 @@
 ## 황예하
-
+<a href="https://velog.io/@dokdom/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 자동화를 통한 운영효율성 향상을 추구해 온 클라우드 SE
 
 ### 교육
@@ -16,7 +16,7 @@
     - 우수참여자로 선정되어 '채널 링크 3.0' 유튜브의 국내 클라우드 기업 방문 및 직무 멘토링과 관련한 인터뷰 촬영
 
 ### 보유 스킬
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" /> 
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
